@@ -5,4 +5,4 @@ permalink: /about/
 ---
 
 <h2>Heading 2</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde iure soluta facere blanditiis quia in vitae incidunt quo facilis voluptas? Fugit, sequi explicabo accusantium reiciendis consectetur voluptatibus consequuntur tempora laudantium.</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, iusto animi! Nulla beatae optio, minus voluptatibus fugiat quam possimus quas deleniti odit, aliquid facere recusandae sed nihil, nobis aut sint!</p>
