@@ -6,6 +6,10 @@ permalink: /contact/
 
 
 {{ page.title }}
+{{ page.url }}
+{{ page.date }}
+
+
 
 <div style="text-align: center">
     
@@ -14,3 +18,13 @@ permalink: /contact/
         <p>Architecto nobis quos perferendis, cupiditate quia accusamus labore. Expedita illum quod, repellendus accusamus. Id quia, maxime iure inventore quo cumque ab eveniet, mollitia praesentium molestias, modi quas voluptate laboriosam eum.</p>
 
 </div>
+
+{{ content }}
+
+<h1>This is a post loop</h1>
+{% for post in site.posts %}
+  <a href="{{ post.url }}">
+    <h2>{{ post.title }} &mdash; {{ post.date | date_to_string }}</h2>
+  </a>
+  {{ post.content }}
+{% endfor %}
