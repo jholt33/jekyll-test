@@ -5,7 +5,6 @@ permalink: /about/
 ---
 
 
-<div style="text-align: center;">
-<h2>Heading 2</h2>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nesciunt, iusto animi! Nulla beatae optio, minus voluptatibus fugiat quam possimus quas deleniti odit, aliquid facere recusandae sed nihil, nobis aut sint!</p>
-</div>
+![](/uploads/versions/kaseya-community-meetup-paris---x----555-320x---.png)
+
+# This is a H1
